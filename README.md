@@ -3,12 +3,12 @@
 
 Brief Introduction
 
-Aspiring Cybersecurity Specialist with a strong foundation in networking, operating systems, and Linux. Passionate about securing systems and mitigating cyber threats, I hold certifications in these areas and am continuously expanding my expertise in Cybersecurity Essentials, Network Defense, and Cyber Threat Management. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst or pursue a role as an Entry-Level Penetration Tester.
+A highly driven System Engineer with extensive experience in infrastructure security, threat detection, and network monitoring. Skilled in incident response, system security, and cybersecurity defense, ensuring robust protection for enterprise environments. With a strong foundation in networking, operating systems, and Linux, I hold certifications in these areas and continuously expand my expertise in Cybersecurity Essentials, Network Defense, and Cyber Threat Management. Passionate about securing systems and mitigating cyber threats, my goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst or pursue a role as an Entry-Level Penetration Tester.
 
 ## Objective
 
 
-Aspiring Cybersecurity Specialist with a solid foundation in networking, operating systems, and security fundamentals. Passionate about threat management, network defense, and endpoint security, I aim to apply my skills in real-world cybersecurity challenges. My goal is to contribute to securing systems and mitigating cyber threats while continuously expanding my expertise through hands-on experience and certifications.
+To leverage my expertise in infrastructure security, threat detection, and network monitoring to protect and secure enterprise environments. I aim to apply my skills in incident response, system security, and cybersecurity defense in a dynamic Security Operations Center (SOC) as a Tier 1 Analyst or as an Entry-Level Penetration Tester. Committed to continuous learning and professional growth, I seek opportunities to enhance cybersecurity strategies, mitigate threats, and contribute to a resilient security posture.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
