@@ -19,7 +19,7 @@ To leverage my expertise in infrastructure security, threat detection, and netwo
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide tools and break them down into categories. Use Google to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
