@@ -15,7 +15,7 @@ To leverage my expertise in infrastructure security, threat detection, and netwo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/CyberSecMohaimen/FTP-port-21-Exploit-Lab/blob/main">FTP port 21 Exploit Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -71,5 +71,5 @@ To leverage my expertise in infrastructure security, threat detection, and netwo
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/CyberSecMohaimen/FTP-port-21-Exploit-Lab/blob/main">FTP port 21 Exploit Lab</a>
+-  VNC port 5900 Exploit Lab
