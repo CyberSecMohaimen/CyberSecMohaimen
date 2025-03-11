@@ -1,7 +1,7 @@
 # Hello, I'm Mohaimen
 <a href="https://linkedin.com/in/mohaimen-dimaronsing/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Brief Introduction
+Brief Introduction 
 
 A highly driven System Engineer with extensive experience in infrastructure security, threat detection, and network monitoring. Skilled in incident response, system security, and cybersecurity defense, ensuring robust protection for enterprise environments. With a strong foundation in networking, operating systems, and Linux, I hold certifications in these areas and continuously expand my expertise in Cybersecurity Essentials, Network Defense, and Cyber Threat Management. Passionate about securing systems and mitigating cyber threats, my goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst or pursue a role as an Entry-Level Penetration Tester.
 
