@@ -13,9 +13,9 @@ To leverage my expertise in infrastructure security, threat detection, and netwo
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Description                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Metasploit FTP port 21 Penetration testing          | <a href="https://github.com/CyberSecMohaimen/FTP-port-21-Exploit-Lab/blob/main">FTP port 21 Exploit Lab</a>|
+| Metasploit FTP port 21 VM Penetration testing          | <a href="https://github.com/CyberSecMohaimen/FTP-port-21-Exploit-Lab/blob/main">FTP port 21 Exploit Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
