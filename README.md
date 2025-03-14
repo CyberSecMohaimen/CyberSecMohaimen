@@ -16,7 +16,7 @@ To leverage my expertise in infrastructure security, threat detection, and netwo
 | Description                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Metasploit FTP port 21 VM Penetration testing          | <a href="https://github.com/CyberSecMohaimen/FTP-port-21-Exploit-Lab/blob/main">FTP port 21 Exploit Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Metasploit VNC port 5900 VM Penetration testing | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 
