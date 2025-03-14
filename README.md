@@ -11,7 +11,7 @@ A highly driven System Engineer with extensive experience in infrastructure secu
 To leverage my expertise in infrastructure security, threat detection, and network monitoring to protect and secure enterprise environments. I aim to apply my skills in incident response, system security, and cybersecurity defense in a dynamic Security Operations Center (SOC) as a Tier 1 Analyst or as an Entry-Level Penetration Tester. Committed to continuous learning and professional growth, I seek opportunities to enhance cybersecurity strategies, mitigate threats, and contribute to a resilient security posture.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Description                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
